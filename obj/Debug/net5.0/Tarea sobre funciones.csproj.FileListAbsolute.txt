@@ -1,0 +1,16 @@
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.exe
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.deps.json
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.runtimeconfig.json
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.runtimeconfig.dev.json
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.dll
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\ref\Tarea sobre funciones.dll
+C:\Users\rende\Documents\Tarea sobre funciones\bin\Debug\net5.0\Tarea sobre funciones.pdb
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.csproj.AssemblyReference.cache
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.AssemblyInfoInputs.cache
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.AssemblyInfo.cs
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.csproj.CoreCompileInputs.cache
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.dll
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\ref\Tarea sobre funciones.dll
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.pdb
+C:\Users\rende\Documents\Tarea sobre funciones\obj\Debug\net5.0\Tarea sobre funciones.genruntimeconfig.cache
